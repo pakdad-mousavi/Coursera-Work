@@ -8,6 +8,14 @@ body {
 }
 
 .navbar-brand {
-  font-size: 22px;
+  font-size: 28px;
   color: black !important;
+}
+
+li {
+  display: block !important;
+}
+
+button {
+  background-color: rgb(180, 180, 180) !important;
 }
