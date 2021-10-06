@@ -1,25 +1,25 @@
 body {
-  font-family: cursive;
+  font-family: cursive !important;
 }
 
 .navbar {
-  background-color: lightgray;
-  min-height: 60px;
+  background-color: lightgray !important;
+  min-height: 60px !important;
 }
 
 .navbar-brand {
-  font-size: 28px;
+  font-size: 28px !important;
   color: black !important;
 }
 
 ul {
-  background-color: white;
+  background-color: white !important;
 }
 
 li {
-  margin-top: 2px;
-  margin-bottom: 2px;
-  border: 1px solid black;
+  margin-top: 2px !important;
+  margin-bottom: 2px !important;
+  border: 1px solid black !important;
 }
 
 button {
@@ -28,6 +28,6 @@ button {
 
 .col-xs-12 {
   background-color: gray !important;
-  padding: 0px 20px 20px;
-  height: 2000px;
+  padding: 0px 20px 20px !important;
+  height: 2000px !important;
 }
